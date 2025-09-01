@@ -1,14 +1,16 @@
+# Reise Buchung Business App
+
 Buchungs-UI für Mietwagen, Flüge und Hotels
 
 Dieses Projekt beinhaltet einer grafischen Benutzeroberfläche (UI) zur Buchung von Mietwagen, Flügen und Hotels.
 
-Technologien & Werkzeuge:
+# Technologien & Werkzeuge:
 
 C++ für die Programmierung
 
 Qt Creator für die Entwicklung der GUI
 
-Funktionen:
+# Funktionen:
 
 Intuitive Benutzeroberfläche zur Auswahl und Buchung von Reisen
 
